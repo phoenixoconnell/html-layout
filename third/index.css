@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+}
+
+.containergray {
+    width: 100%;
+    height: 100px;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.containerbox {
+    width: 100px;
+    height: 100px;
+    background-color: #4A90E2; 
+    margin: 0 20px;
+}
+
+.containerwhite {
+    width: 100%;
+    height: 275px;
+    background-color: white;
+}
+
+.containerwhite p {
+    text-align: left;
+    color: rgb(82, 79, 79);
+    font-size: 1.6em;
+    padding: 60px;
+}
+
+.containerblue {
+    width: 100%;
+    height: 130px;
+    background-color: #4A90E2;
+}
+
+.containerteal {
+    width: 100%;
+    height: 130px;
+    background-color: #50E3C2;
+}
+
+.containerlime {
+    width: 100%;
+    height: 130px;
+    background-color: #B8E986;
+}
+
+.containerlemon {
+    width: 100%;
+    height: 130px;
+    background-color: #F8E71C;
+}
